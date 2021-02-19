@@ -1,0 +1,16 @@
+C:\Users\rahki\source\repos\MontyHallRecreate\MontyHallRecreate\bin\Debug\netcoreapp3.1\MontyHallRecreate.exe
+C:\Users\rahki\source\repos\MontyHallRecreate\MontyHallRecreate\bin\Debug\netcoreapp3.1\MontyHallRecreate.deps.json
+C:\Users\rahki\source\repos\MontyHallRecreate\MontyHallRecreate\bin\Debug\netcoreapp3.1\MontyHallRecreate.runtimeconfig.json
+C:\Users\rahki\source\repos\MontyHallRecreate\MontyHallRecreate\bin\Debug\netcoreapp3.1\MontyHallRecreate.runtimeconfig.dev.json
+C:\Users\rahki\source\repos\MontyHallRecreate\MontyHallRecreate\bin\Debug\netcoreapp3.1\MontyHallRecreate.dll
+C:\Users\rahki\source\repos\MontyHallRecreate\MontyHallRecreate\bin\Debug\netcoreapp3.1\MontyHallRecreate.pdb
+C:\Users\rahki\source\repos\MontyHallRecreate\MontyHallRecreate\obj\Debug\netcoreapp3.1\MontyHallRecreate.csprojAssemblyReference.cache
+C:\Users\rahki\source\repos\MontyHallRecreate\MontyHallRecreate\obj\Debug\netcoreapp3.1\MontyHallRecreate.MontyHall.resources
+C:\Users\rahki\source\repos\MontyHallRecreate\MontyHallRecreate\obj\Debug\netcoreapp3.1\MontyHallRecreate.csproj.GenerateResource.cache
+C:\Users\rahki\source\repos\MontyHallRecreate\MontyHallRecreate\obj\Debug\netcoreapp3.1\MontyHallRecreate.AssemblyInfoInputs.cache
+C:\Users\rahki\source\repos\MontyHallRecreate\MontyHallRecreate\obj\Debug\netcoreapp3.1\MontyHallRecreate.AssemblyInfo.cs
+C:\Users\rahki\source\repos\MontyHallRecreate\MontyHallRecreate\obj\Debug\netcoreapp3.1\MontyHallRecreate.csproj.CoreCompileInputs.cache
+C:\Users\rahki\source\repos\MontyHallRecreate\MontyHallRecreate\obj\Debug\netcoreapp3.1\MontyHallRecreate.dll
+C:\Users\rahki\source\repos\MontyHallRecreate\MontyHallRecreate\obj\Debug\netcoreapp3.1\MontyHallRecreate.pdb
+C:\Users\rahki\source\repos\MontyHallRecreate\MontyHallRecreate\obj\Debug\netcoreapp3.1\MontyHallRecreate.genruntimeconfig.cache
+C:\Users\rahki\source\repos\MontyHallRecreate\MontyHallRecreate\obj\Debug\netcoreapp3.1\MontyHallRecreate.Properties.Resources.resources
